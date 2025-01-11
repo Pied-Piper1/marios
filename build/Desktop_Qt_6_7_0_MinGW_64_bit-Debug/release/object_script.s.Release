@@ -1,0 +1,14 @@
+release/background.o
+release/block.o
+release/box.o
+release/brick.o
+release/goomba.o
+release/main.o
+release/mario.o
+release/mushroom.o
+release/object.o
+release/pipe.o
+release/view.o
+release/wall.o
+release/qrc_res.o
+release/moc_view.o

@@ -1,0 +1,11 @@
+release/background.o
+release/block.o
+release/brick.o
+release/main.o
+release/mario.o
+release/object.o
+release/pipe.o
+release/view.o
+release/wall.o
+release/qrc_res.o
+release/moc_view.o

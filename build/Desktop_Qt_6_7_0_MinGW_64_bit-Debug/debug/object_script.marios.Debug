@@ -1,0 +1,11 @@
+debug/background.o
+debug/block.o
+debug/brick.o
+debug/main.o
+debug/mario.o
+debug/object.o
+debug/pipe.o
+debug/view.o
+debug/wall.o
+debug/qrc_res.o
+debug/moc_view.o
